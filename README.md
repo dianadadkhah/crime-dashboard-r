@@ -12,10 +12,6 @@ This is an individual reimplementation of the [group Python Shiny project](https
 
 ---
 
-## Dashboard Preview
-
-![Crime Dashboard Preview](img/preview.png)
-
 ---
 
 ## Features
