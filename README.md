@@ -41,7 +41,7 @@ RStudio is recommended but not required: [posit.co/download/rstudio-desktop](htt
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crime-dashboard-r.git
+git clone https://github.com/dianadadkhah/crime-dashboard-r.git
 cd crime-dashboard-r
 ```
 
