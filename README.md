@@ -8,7 +8,7 @@ This is an individual reimplementation of the [group Python Shiny project](https
 
 ## Deployed App
 
-👉 **[View the live dashboard]((https://019ced30-0d4c-9392-105c-8d421d9b46a2.share.connect.posit.cloud/))**
+👉 **[View the live dashboard](https://019ced30-0d4c-9392-105c-8d421d9b46a2.share.connect.posit.cloud/)**
 
 ---
 
